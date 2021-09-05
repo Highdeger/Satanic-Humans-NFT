@@ -1,42 +1,14 @@
 {
-  "info": {
-    "name": "Satanic Humans NFT Database"
-  },
-  "nfts": [
-    {
-      "id": 0,
-      "description": "Satanic Humans NFT",
-      "external_url": "https://nft.hassan.com",
-      "image": "https://ibb.co/T2CWz2m",
-      "name": "Satanic Human 1"
-    },
-    {
-      "id": 1,
-      "description": "Satanic Humans NFT",
-      "external_url": "https://nft.hassan.com",
-      "image": "https://ibb.co/Q8kxc9Y",
-      "name": "Satanic Human 2"
-    },
-    {
-      "id": 2,
-      "description": "Satanic Humans NFT",
-      "external_url": "https://nft.hassan.com",
-      "image": "https://ibb.co/Hx48Ywc",
-      "name": "Satanic Human 3"
-    },
-    {
-      "id": 3,
-      "description": "Satanic Humans NFT",
-      "external_url": "https://nft.hassan.com",
-      "image": "https://ibb.co/mHVY54z",
-      "name": "Satanic Human 4"
-    },
-    {
-      "id": 4,
-      "description": "Satanic Humans NFT",
-      "external_url": "https://nft.hassan.com",
-      "image": "https://ibb.co/Wf0HQ5S",
-      "name": "Satanic Human 5"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
